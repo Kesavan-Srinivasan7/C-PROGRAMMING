@@ -23,7 +23,7 @@
         printf("Its monday");
         break;
         case 2:
-        printf("Its tuesday");
+        printf("Its tuesday");    //In this example there is no case 4 so it automatical send to "default"
         break;
         case 3:
         printf("Its wednesday");
