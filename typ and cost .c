@@ -14,7 +14,8 @@ float sum = (float) 5 / 2;
 
 printf("%f", sum); // 2.500000
 
-#const keyword, which makes a variable unchangeable and read-only:#
+#const keyword, which makes a variable unchangeable and read-only:
+
 const int myNum = 15;  // myNum will always be 15
 myNum = 10;  // error: assignment of read-only variable 'myNum'
 
@@ -27,3 +28,4 @@ const int minutesPerHour;   good partice for constant all in uppercase "const in
 
 minutesPerHour = 60; // error
 */
+
